@@ -1,4 +1,4 @@
-package POO_Desafio.funcoes;
+package POO_Desafio.aparelhoInternet;
 
 public class NavegadorInternet {
     public void exibirPagina(){

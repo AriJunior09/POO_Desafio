@@ -1,7 +1,8 @@
-package POO_Desafio.funcoes;
+package POO_Desafio.aparelhoAudio;
 
-public class Reprodutor {
+public class Mp3 implements Reprodutor {
     public void tocar(){
+        SelecionarMusica();
         System.out.println("Tocando Música");
     }
 

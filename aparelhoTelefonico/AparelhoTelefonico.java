@@ -1,4 +1,4 @@
-package POO_Desafio.funcoes;
+package POO_Desafio.aparelhoTelefonico;
 
 public class AparelhoTelefonico {
     public void ligar(){
