@@ -1,6 +1,7 @@
 package POO_Desafio.aparelhoTelefonico;
 
-public class AparelhoTelefonico {
+public class AparelhoTelefonico implements Telefone{
+    
     public void ligar(){
         System.out.println("Ligando para contato");
     }
