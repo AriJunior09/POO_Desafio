@@ -2,7 +2,6 @@ package POO_Desafio.aparelhoAudio;
 
 public class Mp3 implements Reprodutor {
     public void tocar(){
-        SelecionarMusica();
         System.out.println("Tocando Música");
     }
 
